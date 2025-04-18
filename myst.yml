@@ -1,12 +1,12 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: d4378931-2b3a-45bb-9d29-cab6ac3f1831
+  id: 3e929acce187106bff83b38ffd1f045627a149b7f760a7cd7c47ed79005f688b
   # title:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/jbbutler/artmip_template
+  github: https://github.com/taobrienlbl/artmip-publish-teca-bard-v1.0.1
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
