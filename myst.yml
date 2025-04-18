@@ -2,10 +2,10 @@
 version: 1
 project:
   id: 3e929acce187106bff83b38ffd1f045627a149b7f760a7cd7c47ed79005f688b
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
+  title: ARTMIP Documentation for TECA-BARD v1.0.1
+  description: Describes how ARTMIP data users can use TECA-BARD v1.0.1 output
+  keywords: [atmospheric river, AR, ARDT, ARTMIP, TECA, Bayesian, BARD]
+  authors: [Travis A. O'Brien]
   github: https://github.com/taobrienlbl/artmip-publish-teca-bard-v1.0.1
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
