@@ -1,4 +1,4 @@
-# ARTMIP Publishing Template
+# ARTMIP Documentation for TECA-BARD v1.0.1
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taobrienlbl/artmip-publish-teca-bard-v1.0.1/HEAD?urlpath=%2Fdoc%2Ftree%2Fcatalog_demo.ipynb)
 
